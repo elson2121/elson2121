@@ -1,5 +1,33 @@
 # 💫 About Me:
-generate a github profile readme bio for me in teh style of Gprm  use these section with short, casual sentencs and emojis at ethe start of each line:  im currently wrkin on m aim lookin gto collaborate on , am lookin go help wih im, currentlu learrnin ask me about fun fact  make it frendly , simpl and professional fill in with realistic made -up expamples if i don't  provde details keep each section to one sectence or two at most/ <br>
+# 👋 Hi, I'm Samuel Diriba  
+
+💻 I'm currently working on a hotel menu web app with QR code scanning.  
+🤝 I'm looking to collaborate on open-source full-stack projects (React, Node.js).  
+🙌 I'm looking to help with simple websites for small businesses in my community.  
+📚 I'm currently learning Next.js and improving my backend skills with Express.  
+💬 Ask me about JavaScript, building responsive sites, or WordPress setup.  
+⚡ Fun fact: I started teaching IT as a volunteer during summer breaks before I built my first website.  
+
+---
+
+## 🚀 Languages & Tools  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,cpp,java,python,wordpress,git,github,vscode" />  
+</p>  
+
+---
+
+## 📊 GitHub Stats  
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=elson2121&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elson2121&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me  
+- Telegram: [@MysticVoyager3](https://t.me/MysticVoyager3)  
+- GitHub: [elson2121](https://github.com/elson2121)  
+
 
 
 ## 🌐 Socials:
